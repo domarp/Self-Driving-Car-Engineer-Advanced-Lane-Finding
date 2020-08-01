@@ -1,4 +1,4 @@
-This folder contains scripts related to this project
+Refer "project" folder : This folder contains scripts related to this project
 
     - image_utils.py : This module contains all the image utility functions such as image sharpening, camera calibration, undistortion, binary image creation, perspective transformations, filling polygons and creating final frames
     
